@@ -1,0 +1,3 @@
+Python is great for text processing. Text processing helps us clean data, analyze data, and report data.
+When we read a file, we can transform text, count words, and discover patterns in language.
+Python makes file I/O and string manipulation straightforward and powerful.
